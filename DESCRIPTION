@@ -1,6 +1,6 @@
 Package: coolcool
 Title: What the Package Does (One Line, Title Case)
-Version: 1.0.0
+Version: 2.0.0
 Authors@R: 
     person("Maëlle", "Salmon", , "msmaellesalmon@gmail.com", role = c("cre", "aut"),
            comment = c(ORCID = "0000-0002-2815-0399"))
